@@ -46,7 +46,9 @@ div#newhead {
 
 a#header {
     left: 50%;
+    /*
     transform: translateX(-50%);
+    */
 }
 }
 
