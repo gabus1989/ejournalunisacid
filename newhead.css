@@ -1,5 +1,5 @@
 @media screen and (max-width: 600px) {
-    nav#newhead {
+    nav#navnewhead {
         position: fixed;
         top: 0;
         z-index: 99999;
@@ -10,7 +10,7 @@
         height: 64px;
     }
     
-    div#newhead {
+    div#divnewhead {
         position: relative;
         height: 100%;
         display: block;
@@ -44,7 +44,7 @@
 
 
 @media screen and (min-width: 600px) {
-    nav#newhead {
+    nav#navnewhead {
         position: fixed;
         top: 0;
         z-index: 99999;
@@ -55,7 +55,7 @@
         height: 64px;
     }
     
-    div#newhead {
+    div#divnewhead {
         position: relative;
         height: 100%;
         display: block;
