@@ -94,6 +94,7 @@ ul#ulnewnav {
     font-size: 1.2rem;
     font-family: "Roboto Condensed", Impact, Helvetica, Arial, sans-serif;
     background-color: #67aaac;
+    color: white;
 }
 
 header#header, div#nav {
