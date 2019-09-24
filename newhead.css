@@ -73,12 +73,14 @@
     
     a#header {
         display: inline-block;
-        margin-left: 32vw;
+        margin-left: 1vw;
         height: 64px;
         width: 420px;
     }
     
     img#logoejournalunis {
-        width: 100%;
+        width: auto;
+        height: 80%;
+        margin-top: 6px;
     }
 }
