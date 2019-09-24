@@ -84,3 +84,8 @@
         margin-top: 6px;
     }
 }
+
+
+header#header, div#nav {
+    display: none;
+}
