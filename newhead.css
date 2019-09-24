@@ -2,8 +2,10 @@
     a#header {
         /*
         position: absolute;        
-        color: #fff;        
-        display: inline-block;        
+        color: #fff;
+        */
+        display: inline-block;  
+        /*
         font-size: 1.2rem;
         padding: 4px 0px 0px 0px;
         text-decoration: none;
