@@ -27,13 +27,13 @@
         text-decoration: none;
     }
     
-    a#header {
+    a#alogoejournalunis {
         display: inline-block;
         height: 64px;
         width: 80%;
     }
     
-    img#logoejournalunis {
+    img#imglogoejournalunis {
         width: auto;
         height: 80%;
         margin-top: 6px;
@@ -71,14 +71,14 @@
         text-decoration: none;
     }
     
-    a#header {
+    a#alogoejournalunis {
         display: inline-block;
         margin-left: 0px;
         height: 64px;
         width: 85%;
     }
     
-    img#logoejournalunis {
+    img#imglogoejournalunis {
         width: auto;
         height: 80%;
         margin-top: 6px;
