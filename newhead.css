@@ -1,6 +1,8 @@
 @media only screen and (max-width: 992px){
 div#newhead {
+    /*
     text-align: center;
+    */
 }
 
 @media screen and (max-width: 600px) {
