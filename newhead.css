@@ -1,4 +1,14 @@
 @media screen and (max-width: 600px) {
+    nav#newhead {
+        position: fixed;
+        top: 0;
+        z-index: 99999;
+        width: 100vw;
+        display: block;
+        color: #fff;
+        background-color: #21a7ac;
+        height: 64px;
+    }
     a#header {
         display: inline-block;
         padding: 4px 0px 0px 0px;
