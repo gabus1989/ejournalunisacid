@@ -90,7 +90,7 @@
 ul#ulnewnav {
     display: block;
     list-style-type: none;
-    margin: 0;
+    margin-left: 20px;
     padding: 0;
 }
 
