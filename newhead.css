@@ -38,6 +38,7 @@ div#newhead {
     }
     
     img#logoejournalunis {
+        display: none;
         margin-top: 5px;
         margin-left: 5vw;
         height: 75%;
