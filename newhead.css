@@ -64,8 +64,8 @@
         float: left;
         position: relative;
         z-index: 1;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
         margin-top: 20px;
         color: #fff;
         text-decoration: none;
@@ -73,7 +73,7 @@
     
     a#header {
         display: inline-block;
-        margin-left: 10%;
+        margin-left: 50px;
         height: 64px;
         width: 420px;
     }
