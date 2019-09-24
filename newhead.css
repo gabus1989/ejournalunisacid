@@ -91,3 +91,7 @@
 header#header, div#nav {
     display: block;
 }
+
+div#newmenu {
+    height: 64px;
+}
