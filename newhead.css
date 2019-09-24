@@ -31,6 +31,7 @@
         display: inline-block;
         height: 64px;
         width: 80%;
+        text-align: center;
     }
     
     img#imglogoejournalunis {
@@ -76,6 +77,7 @@
         margin-left: 0px;
         height: 64px;
         width: 85%;
+        text-align: center;
     }
     
     img#imglogoejournalunis {
