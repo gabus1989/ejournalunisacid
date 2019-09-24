@@ -69,7 +69,7 @@ div#newhead {
     display: block;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
 a#header {
     /*
     position: absolute;
