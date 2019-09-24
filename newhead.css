@@ -1,9 +1,7 @@
 @media screen and (max-width: 600px) {
     a#header {        
         position: absolute;
-        /*
         color: #fff;
-        */
         display: inline-block;
         font-size: 1.2rem;
         padding: 4px 0px 0px 0px;
