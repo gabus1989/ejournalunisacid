@@ -88,8 +88,10 @@
 }
 
 ul#ulnewnav {
-    display: none;
-    height: 0px;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 header#header, div#nav {
