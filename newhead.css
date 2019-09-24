@@ -68,6 +68,7 @@
         padding: 20px;
         color: #fff;
         text-decoration: none;
+        background-color: #67aaac;
     }
     
     a#alogoejournalunis {
@@ -93,7 +94,7 @@ ul#ulnewnav {
     text-transform: uppercase;
     font-size: 1.2rem;
     font-family: "Roboto Condensed", Impact, Helvetica, Arial, sans-serif;
-    background-color: #21a7ac;
+    background-color: #67aaac;
 }
 
 header#header, div#nav {
