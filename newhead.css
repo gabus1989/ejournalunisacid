@@ -9,6 +9,7 @@
         background-color: #21a7ac;
         height: 64px;
     }
+    
     div#newhead {
         position: relative;
         height: 100%;
@@ -37,69 +38,3 @@
     }
 }
 
-a#header {
-    left: 50%;
-    /*
-    transform: translateX(-50%);
-    */
-}
-}
-
-@media only screen and (max-width: 992px){
-div#newhead {
-    /*
-    text-align: center;
-    */
-}
-
-
-
-nav#newhead {
-    position: fixed;
-    top: 0;
-    z-index: 99999;
-    width: 100vw;
-    display: block;
-    color: #fff;
-    background-color: #21a7ac;
-    height: 64px;
-}
-
-div#newhead {
-    position: relative;
-    height: 100%;
-    display: block;
-}
-
-@media screen and (min-width: 768px) {
-a#header {
-    /*
-    position: absolute;
-    color: #fff;
-    display: inline-block;
-    font-size: 1.777rem;
-    font-weight: bold;
-    padding: 4px 0px 0px 0px;
-    text-decoration: none;
-    font-family: "Roboto Condensed", Impact, Helvetica, Arial, sans-serif;
-    */
-}
-
-img#logoejournalunis {
-        margin-left: 33vw;
-        height: 100%;
-}
-}
-
-a#menubutton {
-    float: left;
-    position: relative;
-    z-index: 1;
-    margin: 16px 18px 0px 18px;    
-    color: #fff;
-    text-decoration: none;
-}
-
-header#header, div#nav {
-    display: none;
-}
