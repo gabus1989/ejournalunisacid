@@ -89,5 +89,5 @@
 
 
 header#header, div#nav {
-    display: none;
+    display: block;
 }
