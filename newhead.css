@@ -88,10 +88,14 @@
 }
 
 ul#ulnewnav {
-    display: block;
+    display: inline-block;
     list-style-type: none;
-    margin-left: 20px;
+    margin: 20px;
     padding: 0;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-family: "Roboto Condensed", Impact, Helvetica, Arial, sans-serif;
+    background-color: #21a7ac;
 }
 
 header#header, div#nav {
