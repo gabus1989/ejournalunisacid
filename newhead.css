@@ -20,9 +20,7 @@
         float: left;
         position: relative;
         z-index: 1;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-top: 20px;
+        padding: 17px 20px 17px 20px;
         color: #fff;
         text-decoration: none;
         background-color: #67aaac;
@@ -66,7 +64,7 @@
         float: left;
         position: relative;
         z-index: 1;
-        padding: 20px;
+        padding: 17px 20px 17px 20px;
         color: #fff;
         text-decoration: none;
         background-color: #67aaac;
