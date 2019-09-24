@@ -87,6 +87,10 @@
     }
 }
 
+ul#ulnewnav {
+    display: none;
+    height: 0px;
+}
 
 header#header, div#nav {
     display: block;
