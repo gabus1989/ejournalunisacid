@@ -1,6 +1,5 @@
 @media screen and (max-width: 600px) {
-    a#header {        
-        position: absolute;
+    a#header {
         display: inline-block;
         padding: 4px 0px 0px 0px;
         height: 64px;
