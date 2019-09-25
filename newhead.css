@@ -97,7 +97,7 @@ ul#ulnewnav {
     color: #ffffff;
 }
 
-li.linewnav {
+li.linewnav, a.anewnav {
     color: #ffffff;
 }
 
