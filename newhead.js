@@ -8,4 +8,5 @@ document.getElementById("menubutton").addEventListener("click", function(){
 });
 
 var breadcrumb = document.getElementById("breadcrumb");
-newhead.insertBefore(breadcrumb, newhead.childNodes[1]);
+var ulnewnav = document.getElementById("ulnewnav");
+ulnewnav.insertBefore(breadcrumb, ulnewnav.childNodes[0]);
