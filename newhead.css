@@ -97,6 +97,10 @@ ul#ulnewnav {
     color: #ffffff;
 }
 
+li.linewnav {
+    color: #ffffff;
+}
+
 header#header, div#nav {
     display: block;
 }
