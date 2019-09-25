@@ -5,7 +5,7 @@
         z-index: 99999;
         width: 100vw;
         display: block;
-        color: #fff;
+        color: #ffffff;
         background-color: #21a7ac;
         height: 64px;
     }
@@ -21,7 +21,7 @@
         position: relative;
         z-index: 1;
         padding: 16px 20px 17px 20px;
-        color: #fff;
+        color: #ffffff;
         text-decoration: none;
         background-color: #67aaac;
     }
@@ -49,7 +49,7 @@
         z-index: 99999;
         width: 100vw;
         display: block;
-        color: #fff;
+        color: #ffffff;
         background-color: #21a7ac;
         height: 64px;
     }
@@ -65,7 +65,7 @@
         position: relative;
         z-index: 1;
         padding: 16px 20px 17px 20px;
-        color: #fff;
+        color: #ffffff;
         text-decoration: none;
         background-color: #67aaac;
     }
