@@ -7,5 +7,5 @@ document.getElementById("menubutton").addEventListener("click", function(){
   document.getElementById("newhead").innerHTML = "Hello World";
 });
 
-var breadcrumb = document.getElementById("breadcrumb").children[0];
+var breadcrumb = document.getElementById("breadcrumb");
 newhead.insertBefore(breadcrumb, newhead.childNodes[1]);
