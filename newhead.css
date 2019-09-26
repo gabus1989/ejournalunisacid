@@ -2,7 +2,7 @@
     nav#navnewhead {
         position: fixed;
         top: 0;
-        z-index: 99999;
+        z-index: 99998;
         width: 100vw;
         display: block;
         color: #ffffff;
@@ -42,6 +42,7 @@
     div#divmenupanel {
         background-color: white;
         display: block;
+        z-index: 99999;
         position: fixed;
         left: 0px;
         top: 0px;
@@ -57,7 +58,7 @@
     nav#navnewhead {
         position: fixed;
         top: 0;
-        z-index: 99999;
+        z-index: 99998;
         width: 100vw;
         display: block;
         color: #ffffff;
@@ -99,10 +100,11 @@
         background-color: white;
         display: block;
         position: fixed;
+        z-index: 99999;
         left: 0px;
         top: 0px;
         height: 100%;
-        width: 33%;
+        width: 240px;
     }    
 }
 
