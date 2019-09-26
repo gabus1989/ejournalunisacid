@@ -7,6 +7,4 @@ document.getElementById("menubutton").addEventListener("click", function(){
   document.getElementById("newhead").innerHTML = "Hello World";
 });
 
-var breadcrumb = document.getElementById("breadcrumb");
-var ulnewnav = document.getElementById("ulnewnav");
-ulnewnav.insertBefore(breadcrumb, ulnewnav.childNodes[0]);
+document.getElementById("myP").addEventListener("click", myFunction, true);
