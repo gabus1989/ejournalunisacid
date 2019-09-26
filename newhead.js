@@ -19,7 +19,6 @@ document.getElementById("abackbutton").addEventListener("click", function(){
     divmenupanel.style.display = "none";
 });
 
-/*
 var x = document.getElementById("sidebarUser").tagName;
-*/
-alert("test");
+var res = String(x);
+alert(res);
