@@ -109,10 +109,9 @@
 }
 
 a#abackbutton {
-    width: 100%;
     position: relative;
     top: 20px;
-    left: 20px;
+    padding: 20px;
 }
 ul#ulnewnav {
     /*
