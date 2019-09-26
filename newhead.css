@@ -40,7 +40,8 @@
     }
     
     div#divmenupanel {
-        background-color: white;
+        background-image: url(http://ejournal.unis.ac.id/plugins/themes/clean-rwd/pattern.jpg);
+        background-repeat: repeat;
         z-index: 99999;
         position: fixed;
         left: 0px;
@@ -96,7 +97,8 @@
     }
 
     div#divmenupanel {
-        background-color: white;
+        background-image: url(http://ejournal.unis.ac.id/plugins/themes/clean-rwd/pattern.jpg);
+        background-repeat: repeat;
         position: fixed;
         z-index: 99999;
         left: 0px;
