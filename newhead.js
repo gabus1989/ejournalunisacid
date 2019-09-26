@@ -5,7 +5,7 @@ document.getElementById("content").children[0].style.display = "none";
 
 document.getElementById("menubutton").addEventListener("click", function(){
   var divmenupanel = document.getElementById("divmenupanel");
-  if (divmenupanel.style.display === "none") {
+  if (divmenupanel.style.display == "none") {
     divmenupanel.style.display = "block";
   } else {
     divmenupanel.style.display = "none";
