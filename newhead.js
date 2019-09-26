@@ -6,5 +6,3 @@ document.getElementById("content").children[0].style.display = "none";
 document.getElementById("menubutton").addEventListener("click", function(){
   document.getElementById("newhead").innerHTML = "Hello World";
 });
-
-document.getElementById("myP").addEventListener("click", myFunction, true);
