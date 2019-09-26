@@ -11,9 +11,10 @@ alert(theCSSprop);
 
 document.getElementById("menubutton").addEventListener("click", function(){
   var divmenupanel = document.getElementById("divmenupanel");
-  if (divmenupanel.style.display === "none") {
-    divmenupanel.style.display = "block";
-  } else {
+  divmenupanel.style.display = "block";
+});
+
+document.getElementById("abackbutton").addEventListener("click", function(){
+  var divmenupanel = document.getElementById("divmenupanel");
     divmenupanel.style.display = "none";
-  }
 });
