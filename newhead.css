@@ -41,7 +41,7 @@
     
     div#divmenupanel {
         background-color: white;
-        display: block;
+        display: none;
         z-index: 99999;
         position: fixed;
         left: 0px;
@@ -98,7 +98,7 @@
 
     div#divmenupanel {
         background-color: white;
-        display: block;
+        display: none;
         position: fixed;
         z-index: 99999;
         left: 0px;
