@@ -7,4 +7,7 @@ var element = document.getElementById("divmenupanel");
 var style = window.getComputedStyle(element, null);
 var top = style.getPropertyValue("display");
 
-alert(top);
+var elem = document.getElementById("divmenupanel");
+var theCSSprop = window.getComputedStyle(elem, null).getPropertyValue("display");
+
+alert(theCSSprop);
