@@ -19,5 +19,5 @@ document.getElementById("abackbutton").addEventListener("click", function(){
     divmenupanel.style.display = "none";
 });
 
-var x = document.getElementById("sidebar-username").tagName;
+var x = document.getElementById("sidebarUser").tagName;
 alert(x);
