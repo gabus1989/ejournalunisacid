@@ -101,6 +101,11 @@ li.linewnav, a.anewnav {
     color: #ffffff;
 }
 
+li.libreadcrumb {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
 header#header, div#nav {
     display: block;
 }
