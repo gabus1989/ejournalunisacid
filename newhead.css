@@ -136,7 +136,7 @@ li#libreadcrumb {
     color: black;
 }
 
-header#header, div#nav {
+header#header, div#nav, div#sidebarDevelopedBy, div#sidebarHelp, div#sidebarLanguageToggle, div#sidebarNavigation {
     display: none;
 }
 
