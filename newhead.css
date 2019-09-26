@@ -135,7 +135,7 @@ li#libreadcrumb {
 }
 
 header#header, div#nav {
-    display: block;
+    display: none;
 }
 
 div#nbsp {
