@@ -18,3 +18,6 @@ document.getElementById("abackbutton").addEventListener("click", function(){
   var divmenupanel = document.getElementById("divmenupanel");
     divmenupanel.style.display = "none";
 });
+
+var elem = document.getElementById("sidebar-username").tagName;
+alert(elem);
