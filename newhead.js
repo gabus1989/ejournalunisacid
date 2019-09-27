@@ -25,4 +25,4 @@ document.getElementById("abackbutton").addEventListener("click", function(){
 
 var sidebarUser = document.getElementById("sidebarUser");
 var divmenupanel = document.getElementById("divmenupanel");
-divmenupanel.insertBefore(sidebarUser, divmenupanel.childNodes[0]);
+divmenupanel.insertBefore(sidebarUser, divmenupanel.children[1]);
